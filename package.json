@@ -1,8 +1,14 @@
 {
   "name": "obsidian",
   "displayName": "Obsidian",
-  "description": "",
+  "description": "A dark purple theme",
   "version": "0.0.1",
+  "publisher": "IsmailJakupi",
+  "preview": true,
+  "galleryBanner.color": {
+    "color": "#231942",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },

@@ -1,16 +1,7 @@
 # obsidian README
 
-## Working with Markdown
+This theme is a theme inspired (not totally) by Obsidian.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+It's a Dark purple-ish theme, it's my first theme so don't expect it to be amazing or fully configured as I'm still learning everything
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+It's going to undergo some testing and checks in the next few weeks so the releases and maintenance will kind of be rough and frequent.
