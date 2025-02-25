@@ -153,7 +153,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#C792EA",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -197,7 +198,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#0cd196",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -232,7 +234,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#97aff3"
 			}
 		},
 		{
@@ -247,7 +249,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#b3e962"
 			}
 		},
 		{
@@ -263,7 +265,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#c732a2",
+				"fontStyle": "italic bold underline"
 			}
 		},
 		{
