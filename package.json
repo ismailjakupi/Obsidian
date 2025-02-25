@@ -1,5 +1,5 @@
 {
-  "name": "obsidian",
+  "name": "obsidiantheme",
   "displayName": "Obsidian",
   "description": "A dark purple theme",
   "version": "0.0.1",
@@ -15,6 +15,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ismailjakupi/Obsidian.git"
+  },
   "contributes": {
     "themes": [
       {
