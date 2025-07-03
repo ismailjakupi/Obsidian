@@ -1,6 +1,6 @@
 # obsidian README
 
-This theme is a theme inspired (not totally) by Obsidian.
+This theme is a theme inspired by obsidian (the vulcanic material).
 
 It's a Dark purple-ish theme, it's my first theme so don't expect it to be amazing or fully configured as I'm still learning everything
 
